@@ -25,5 +25,5 @@ You can also access the web application of this project from my github repositor
 
 
 ## Login/Signup Page
-![image](https://user-images.githubusercontent.com/72974967/121367102-b06ead80-c942-11eb-87b4-40d27855101f.png)
+![image](https://user-images.githubusercontent.com/72974967/121367282-db590180-c942-11eb-8d18-ce8f5b700346.png)
 ![image](https://user-images.githubusercontent.com/72974967/121367175-c2505080-c942-11eb-89e4-e26443872d77.png)
