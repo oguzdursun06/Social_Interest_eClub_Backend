@@ -20,48 +20,57 @@ You can also access the web application of this project from my github repositor
 
 ## Homepage
 ![image](https://user-images.githubusercontent.com/72974967/121366742-62f24080-c942-11eb-8e45-e38bc02e3380.png)
+<br />
 ![image](https://user-images.githubusercontent.com/72974967/121366901-861cf000-c942-11eb-8fcc-7b463a28d24e.png)
+<br />
 ![image](https://user-images.githubusercontent.com/72974967/121366971-9339df00-c942-11eb-83d5-9cb642d4c302.png)
+<br />
 
-<br /><br /><br />
+<br /><br /><br /><br />
 
 
 
 
 ## Login/Signup Page
 ![image](https://user-images.githubusercontent.com/72974967/121367282-db590180-c942-11eb-8d18-ce8f5b700346.png)
+<br />
 ![image](https://user-images.githubusercontent.com/72974967/121367175-c2505080-c942-11eb-89e4-e26443872d77.png)
 
 
-<br /><br /><br />
+<br /><br /><br /><br />
 
 
 
 ## Admin Page
 ![image](https://user-images.githubusercontent.com/72974967/121367582-16f3cb80-c943-11eb-88cf-ba6173f22116.png)
+<br />
 ![image](https://user-images.githubusercontent.com/72974967/121367791-4571a680-c943-11eb-8705-656a93ba0883.png)
+<br />
 ![image](https://user-images.githubusercontent.com/72974967/121367915-5b7f6700-c943-11eb-8e41-5202b536ea93.png)
 
 
 
 
-<br /><br /><br />
+<br /><br /><br /><br />
 
 
 ## User Page
 ![image](https://user-images.githubusercontent.com/72974967/121368099-7d78e980-c943-11eb-8904-496fff268740.png)
+<br />
 ![image](https://user-images.githubusercontent.com/72974967/121368225-941f4080-c943-11eb-82b6-ad33f300ea03.png)
 
 
 
 
-<br /><br /><br />
+<br /><br /><br /><br />
 
 
 
 ## Subclub Page
 ![image](https://user-images.githubusercontent.com/72974967/121368283-a1d4c600-c943-11eb-9e67-37a6d6d736e9.png)
+<br />
 ![image](https://user-images.githubusercontent.com/72974967/121368448-c2048500-c943-11eb-807e-e3c2bc8edf09.png)
+<br />
 ![image](https://user-images.githubusercontent.com/72974967/121368510-cc268380-c943-11eb-87d8-32f2712c35ff.png)
 
 
